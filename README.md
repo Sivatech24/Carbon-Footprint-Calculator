@@ -1,2 +1,3 @@
-# Carbon-Footprint-Calculator
-Carbon Footprint Calculator Using flutter
+# carbon_footprint_calculator
+
+A new Flutter project.
